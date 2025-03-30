@@ -17,7 +17,7 @@
 
 ## Stats
 ![Stats](https://github-readme-stats-anandbhaskarans-projects.vercel.app/api?username=anandbhaskaran&show_icons=true&include_all_commits=true&rank_icon=github&hide=contribs&show=reviews,prs_merged_percentage)
-![Langugages](https://github-readme-stats-anandbhaskarans-projects.vercel.app/api/top-langs/?username=anandbhaskaran&size_weight=0.01&count_weight=0.99&hide=html,SCSS,Blade,CSS,PHP,Pug,Shell,Dockerfile,HCL,Stylus,Procfile&langs_count=8)
+![Langugages](https://github-readme-stats-anandbhaskarans-projects.vercel.app/api/top-langs/?username=anandbhaskaran&size_weight=0.01&count_weight=0.99&hide=html,SCSS,Blade,CSS,PHP,Pug,Shell,Dockerfile,HCL,Stylus,Procfile&langs_count=8&layout=compact&card_width=330)
 
 
 <!--
