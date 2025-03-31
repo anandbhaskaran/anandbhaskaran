@@ -1,5 +1,5 @@
 # Anand
-### Software Developer, Entrepreneur & Investor
+### Software Developer, Startup Mentor & Product Manager
 
 ⤷ Senior Software Engineer and Tech Lead with 10+ years  of experience in designing, building, and scaling production services. Proven success in owning critical projects, planning, execution, and risk management. Skilled in collaborating with product teams, stakeholders, and non-technical partners to deliver impactful solutions. I am currently working as a Lead Software Engineer at Beekeeper
 
