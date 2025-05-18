@@ -23,7 +23,7 @@
 
 ![Langugages](https://github-readme-stats-anandbhaskarans-projects.vercel.app/api/top-langs/?username=anandbhaskaran&size_weight=0.01&count_weight=0.99&hide=html,SCSS,Blade,CSS,PHP,Pug,Shell,Dockerfile,HCL,Stylus,Procfile&langs_count=8&layout=compact&card_width=330)
 
-![](https://hit.yhype.me/github/profile?account_id=6847984) - Since 19 May 2025
+![](https://hit.yhype.me/github/profile?account_id=6847984)
 <!--
 Created with https://readme-dev.vercel.app/create
 **anandbhaskaran/anandbhaskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
